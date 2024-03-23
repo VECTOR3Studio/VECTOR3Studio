@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Šimon Kyselica AKA VECTOR3Studio, 17 years old guy from Slovakia.
+- 👋 Hi, I’m Šimon Kyselica AKA VECTOR3Studio, 19 years old guy from Slovakia.
 - 👀 I’m interested in game and web developement. Im also intersted in finance.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Advanced JS practises.
 <!-- 💞️ I’m looking to collaborate on ...--->
 - 📫 You can send me a mail on simonkyselica@protonmail.com or contact me on IG: @vector3_studio
 
